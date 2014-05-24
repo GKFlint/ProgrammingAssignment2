@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The following are a pair of functions to create, calculate and cache matrix inversions
+## so that one does not need to calculate it repeatedly.
 
 ## makeCacheMatrix
 ## This function creates a special matrix object along with a few subfunctions to operate on it, in
